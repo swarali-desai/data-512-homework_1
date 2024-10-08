@@ -33,6 +33,8 @@ This repository uses a subset of the English Wikipedia that represents a large n
 
 [Matplotlib](https://matplotlib.org/stable/api/index.html): Library used to create graphs
 
+Note: ChatGPT was used to for code generation for the plots to help with syntax and improve code eficiency. 
+
 # Usage
 
 Entire code for reproducing the results are present in the [monthly_article_views_data_analysis.ipynb](data-512-homework_1 /monthly_article_views_data_analysis.ipynb) file.
