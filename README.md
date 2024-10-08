@@ -33,7 +33,7 @@ This repository uses a subset of the English Wikipedia that represents a large n
 
 [Matplotlib](https://matplotlib.org/stable/api/index.html): Library used to create graphs
 
-# Steps to run the code
+# Usage
 
 Entire code for reproducing the results are present in the [monthly_article_views_data_analysis.ipynb](data-512-homework_1 /monthly_article_views_data_analysis.ipynb) file.
 We just have to run the cells in order to produce the same results.
