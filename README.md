@@ -44,7 +44,7 @@ Note: The data aquisition step may require different time to run which can range
 
 # Result files
 
-Running the [monthly_article_views_data_analysis.ipynb](data-512-homework_1 /monthly_article_views_data_analysis.ipynb) file produces dataset for desktop, mobile and cummulative views for the monthly article traffic for a select set of pages from English Wikipedia from July 1, 2015 through September 30, 2024. These datasets are stored in a JSON format under the [article_views_json_files](data-512-homework_1 /article_views_json_files) folder.
+Running the [monthly_article_views_data_analysis.ipynb](data-512-homework_1/monthly_article_views_data_analysis.ipynb) file produces dataset for desktop, mobile and cummulative views for the monthly article traffic for a select set of pages from English Wikipedia from July 1, 2015 through September 30, 2024. These datasets are stored in a JSON format under the [article_views_json_files](data-512-homework_1/article_views_json_files) folder.
 
 Structure of each JSON dataset is as follows:
 
@@ -63,7 +63,13 @@ Structure of each JSON dataset is as follows:
 }
 ```
 
-The [monthly_article_views_data_analysis.ipynb](data-512-homework_1 /monthly_article_views_data_analysis.ipynb) also generated plots which are analysed. These plots are visualized using the pandas and matplotlib libraries and can be viewed within the notebook but they are also saved as a .png in the [article_views_stats_plots](data-512-homework_1 /article_views_stats_plots) folder.
+The [monthly_article_views_data_analysis.ipynb](data-512-homework_1/monthly_article_views_data_analysis.ipynb) also generated plots which are analysed. These plots are visualized using the pandas and matplotlib libraries and can be viewed within the notebook but they are also saved as a .png in the [article_views_stats_plots](data-512-homework_1/article_views_stats_plots) folder.
+
+[max_min_avg.png](HCDS/data-512-homework_1/article_views_stats_plots/max_min_avg.png): Max and min average views for desktop and mobile views.
+
+[top_10_peak_page_views_combined.png](HCDS/data-512-homework_1/article_views_stats_plots/top_10_peak_page_views_combined.png): Combined views for mobile and desktop for the top 10 rare diseases.
+
+[fewest_months_of_data.png](HCDS/data-512-homework_1/article_views_stats_plots/fewest_months_of_data.png): Articles with lowest views on desktop and mobile.
 
 ### Important Notes for Users
 
