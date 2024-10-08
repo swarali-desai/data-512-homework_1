@@ -1,4 +1,4 @@
-# Wikipedia Article Traffic Analysis (2015-2024)
+# Wikipedia Rare Diseases Article Views Analysis (2015-2024)
 
 [DATA-512 | Homework 1 | Professionalism & Reproducibility](https://docs.google.com/document/d/1ovpmb9BXWrDVP1a-AKrT0E36XZC7N4n8-0iUfgQzKVg/edit)
 
